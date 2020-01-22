@@ -1,0 +1,14 @@
+{
+  "mouse": {
+    "name": "NoxPlayer",
+    "isClass": false,
+    "child": {
+      "name": "ScreenBoardClassWindow",
+      "isClass": false
+    }
+  },
+  "keyboard": {
+    "name": "nox",
+    "isClass":  false
+  }
+}
